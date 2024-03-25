@@ -12,14 +12,17 @@ amongst Egyptains.
 
 ### M-PORTFOLIO COMPETENCY ASSESSMENT
 
+![alt text](https://github.com/Saidoflo/Saidoflo.github.io/blob/main/assets/1.png)
+
+![alt text](https://github.com/Saidoflo/Saidoflo.github.io/blob/main/assets/2.png)
 
 
 ### SMART Goals
 
+1. I want to enroll in a PhD program in Bioengineering. I will research at least five potential PhD programs in Bioengineering by the end of this semester. I will achieve a competitive GPA, gain research experience through internships or projects, and obtain strong letters of recommendation to increase my chances of acceptance. Obtaining a PhD in Bioengineering aligns with my career aspirations to contribute to advancements in healthcare technology and biotechnology. I will submit my PhD program applications by November 1st of my senior year, allowing ample time for review and revisions before the application deadlines."
+## 
 
-
-
-#### Technical Skills: Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
+### Technical Skills: Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
 
 ## Education
 - B.S.E., Computer Science | The University of Michigan (_May 2025_)
