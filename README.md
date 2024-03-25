@@ -22,8 +22,8 @@ amongst Egyptains.
 #### Technical Skills: Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
 
 ## Education
-</div> - B.S.E., Computer Science | The University of Michigan (_May 2025_) </div>
-</div> - B.S.E., Biomedical Engineering | The University of Michigan (_May 2025_) </div>
+- B.S.E., Computer Science | The University of Michigan (_May 2025_)
+- B.S.E., Biomedical Engineering | The University of Michigan (_May 2025_) 
 
 ## Work Experience
 **Research Engineering Intern (_September 2023 - Present_)**
