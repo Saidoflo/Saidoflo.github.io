@@ -25,7 +25,7 @@ Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
 
 ## Education
 - B.S.E., Computer Science | The University of Michigan (_May 2025_)
-- <pre> B.S.E., Biomedical Engineering | The University of Michigan ( May 2025) </pre> 
+- B.S.E., Biomedical Engineering | The University of Michigan (_May 2025_)
 
 ## Work Experience
 **Research Engineering Intern (_September 2023 - Present_)**
