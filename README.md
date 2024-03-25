@@ -12,10 +12,9 @@ amongst Egyptains.
 
 ### M-PORTFOLIO COMPETENCY ASSESSMENT
 
-![alt text](https://github.com/Saidoflo/Saidoflo.github.io/blob/main/assets/1.png)
+![png1](/assets/1.png)
 
-![alt text](https://github.com/Saidoflo/Saidoflo.github.io/blob/main/assets/2.png)
-
+![png2](/assets/1.png)
 
 ### SMART Goals
 
