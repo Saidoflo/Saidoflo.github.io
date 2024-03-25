@@ -1,6 +1,6 @@
 # Welcome
 
-### About Me 
+## About Me 
 Hi my name is Omar Said. I am a Senior Studying Computer Science and Biomedical Engineering @ The University of Michigan. 
 I am intereasting in Research especially in the field of Computational Vascular Biology. My future goal is to continue my
 research journey and enroll into a PhD program and hopefull later get into acaedmia and work as a professor.\
@@ -8,13 +8,13 @@ research journey and enroll into a PhD program and hopefull later get into acaed
 Outside of School, I enjoy playing soccer and scuba diving. I am actually from Egypt so these two hobbies of mine are very common 
 amongst Egyptains. 
 
-### Honors Development Plan 
+## Honors Development Plan 
 
-## M-PORTFOLIO COMPETENCY ASSESSMENT
+### M-PORTFOLIO COMPETENCY ASSESSMENT
 
 
 
-## SMART Goals
+### SMART Goals
 
 
 
