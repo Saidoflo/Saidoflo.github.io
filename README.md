@@ -36,7 +36,7 @@ Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
 - Delivering presentations to senior engineers and fostering constructive discussions demonstrates communication skills in conveying technical information effectively
 
 ### Medtronic
-**Quality Engineering Intern (June 2023 - August 2023_)**
+**Quality Engineering Intern (June 2023 - August 2023)**
 - Played a pivotal role in ensuring the quality of critical raw materials from legacy production lines, aligning with patient safety considerations, and conducted risk assessments for distribution sites in Brazil and the Dominican Republic, ensuring compliance with regulatory standards.
 - Spearheaded initiatives to optimize the flow of purchased components by collaborating with Medtronic's facility in Singapore, leading to a projected savings of approximately $2.5 million, reduction in transit costs, and environmental impact.
 - Collaborating with colleagues, researchers, and team members in various projects and initiatives demonstrates teamwork and the ability to work effectively in interdisciplinary settings
