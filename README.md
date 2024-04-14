@@ -29,12 +29,14 @@ Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
 
 ## Work Experience
 ### Edwards Lifesciences
-**Research Engineering Intern (_September 2023 - _January 2024)**
+**Research Engineering Intern (September 2023 - January 2024)**
 - Utilized Python, Matlab, and CRIMSON to create a computational model simulating hemodynamics resulting from cardiovascular devices in preclinical trials.
 - Delivered presentations on our findings to senior engineers, fostering constructive discussions and incorporating their feedback for further refinement of the computational model, enhancing model’s accuracy.
 - Completed the Model for 4 stages: Hypervolemic, Euvolemic, Acute performance of Device, and Chronic performance of with Device
 - Delivering presentations to senior engineers and fostering constructive discussions demonstrates communication skills in conveying technical information effectively
-**Quality Engineering Intern (_June 2023 - August 2023_)**
+
+### Medtronic
+**Quality Engineering Intern (June 2023 - August 2023_)**
 - Played a pivotal role in ensuring the quality of critical raw materials from legacy production lines, aligning with patient safety considerations, and conducted risk assessments for distribution sites in Brazil and the Dominican Republic, ensuring compliance with regulatory standards.
 - Spearheaded initiatives to optimize the flow of purchased components by collaborating with Medtronic's facility in Singapore, leading to a projected savings of approximately $2.5 million, reduction in transit costs, and environmental impact.
 - Collaborating with colleagues, researchers, and team members in various projects and initiatives demonstrates teamwork and the ability to work effectively in interdisciplinary settings
