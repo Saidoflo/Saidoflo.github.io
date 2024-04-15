@@ -1,7 +1,7 @@
 # Welcome
 
 ## About Me 
-Hi my name is Omar Said. I am a Senior Studying Computer Science and Biomedical Engineering @ The University of Michigan. 
+Hi my name is Omar Said. I am a Junior Studying Computer Science and Biomedical Engineering @ The University of Michigan. 
 I am intereasting in Research especially in the field of Computational Vascular Biology. My future goal is to continue my
 research journey and enroll into a PhD program and hopefull later get into acaedmia and work as a professor.\
 
