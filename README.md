@@ -21,13 +21,11 @@ amongst Egyptains.
 1. I want to enroll in a PhD program in Bioengineering. I will research at least five potential PhD programs in Bioengineering by the end of this semester. I will achieve a competitive GPA, gain research experience through internships or projects, and obtain strong letters of recommendation to increase my chances of acceptance. Obtaining a PhD in Bioengineering aligns with my career aspirations to contribute to advancements in healthcare technology and biotechnology. I will submit my PhD program applications by November 1st of my senior year, allowing ample time for review and revisions before the application deadlines.
 
 ### Philosphy Statement
-As a leader, I believe that real success comes from sticking to your core values, always growing, and genuinely wanting to make a positive difference in others’ lives. My approach to leadership is all about patience, persistence, resilience, creativity, and empathy. I aim to lead with honesty, making sure my decisions and actions always reflect what I believe in. By creating a trustworthy and authentic environment, I hope to inspire my team and get everyone working towards the same goals, while valuing each person’s unique strengths and ideas.
+I believe that real success comes from sticking to your core values, always growing, and genuinely wanting to make a positive difference in others’ lives. My approach to leadership is all about patience, persistence, resilience, creativity, and empathy.
 
 Mentorship and education are super important to me. I love teaching and inspiring others, helping them find their potential and do meaningful work. Whether it’s developing new healthcare technologies or creating opportunities for underrepresented students in STEM, I want to leave a positive mark and make a lasting impact. I’m not afraid to take risks and step out of my comfort zone because that’s how I grow as a leader and handle challenges with confidence and flexibility.
 
 In my perfect world, everyone has access to advanced healthcare and quality education. To make this happen, I’m committed to using my creativity and strategic thinking to solve tough problems that connect engineering and medicine. My goal is to build a better future by creating tools that improve patient care and support surgeons, while also pushing for educational fairness and mentoring the next generation of innovators.
-
-At the heart of my leadership philosophy is the desire to make a real difference through intentional actions, fostering a collaborative and supportive community, and always evolving to meet the needs of those I’m here to help. By staying true to my values and embracing both the good and the challenging times, I aim to lead with passion, resilience, and a strong sense of responsibility to create a more fair and innovative world.
 
 ## Technical Skills 
 Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
