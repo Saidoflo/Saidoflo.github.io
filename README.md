@@ -48,6 +48,20 @@ Python, MATLAB, C++, Solidworks, COMSOL, Labview, CRIMSON
 - Spearheaded initiatives to optimize the flow of purchased components by collaborating with Medtronic's facility in Singapore, leading to a projected savings of approximately $2.5 million, reduction in transit costs, and environmental impact.
 - Collaborating with colleagues, researchers, and team members in various projects and initiatives demonstrates teamwork and the ability to work effectively in interdisciplinary settings
 
+## Teaching
+### **BIOMEDE 241 Instructional Aide**  
+- Serve as a Teaching Assistant for ”Statistics, Computation, and Data Analysis for Biomedical Engineers, supporting over 130 undergraduate students in statistical and computational methods.
+- Assist in teaching fundamentals of descriptive statistics, probability distributions, hypothesis testing, regression
+analysis, ANOVA, and post-hoc tests, integrating computation, data analysis, and visualization techniques.
+- Develop and deliver engaging learning materials and tutorials on using Python that apply statistical methods to
+real biomedical engineering datasets, enhancing practical understanding.
+- Host weekly office hours to provide content review, homework assistance, and guidance on computational tools,
+improving student performance and confidence.
+- Monitor and facilitate online discussion forums to encourage active engagement, promptly addressing student
+inquiries and fostering a collaborative learning environment.
+- Developing additional features that would help enhance the course’s organization for both instructors and students,
+including an autograder for homework assignments and an office hour queue system.
+
 ## Projects
 ### Heart Rate Monitor 
 - Created a compact heart rate monitor using Arduino Uno and LabVIEW software, capable of accurately displaying real-time heart rate data by placing a finger between the photodiode and IR LED.
