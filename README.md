@@ -73,9 +73,9 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 ## Work Experience
 
 ### Edwards Lifesciences  
-**Research Engineering Intern**
-**September 2023 - January 2024**
-**Irvine, CA**
+# Research Engineering Intern
+# September 2023 - January 2024
+# Irvine, CA
 - Utilized Python, MATLAB, and CRIMSON to create a computational model simulating hemodynamics resulting from cardiovascular devices in preclinical trials.  
 - Delivered presentations on findings to senior engineers, integrating feedback to enhance model accuracy.  
 - Completed the model for four stages: Hypervolemic, Euvolemic, Acute device performance, and Chronic device performance.  
