@@ -63,11 +63,6 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
   - *Bachelor of Science in Engineering, Biomedical Engineering* (Expected **May 2025**)  
   - **GPA**: 3.70/4.00  
 
-- **The University of California** (Transferred to the University of Michigan)  
-  - *Bachelor of Science in Engineering, Biomedical Engineering*  
-  - *Minor in Bioinformatics*  
-  - **GPA**: 3.70/4.00 (Sept. 2020 – June 2022)
-
 **Relevant Coursework**  
 - **Computer Science**: Data Structures and Algorithms, Discrete Mathematics, Algorithms, Computer Organization, Web Systems, Artificial Intelligence, Computer Vision  
 - **Biomedical/Mechanical Engineering**: Biophysical Chemistry and Thermodynamics, Biocomputation Statistics & Analysis, Biomechanics, Circuits and Systems, Principles of Engineering Materials, Biomedical Engineering Design, Instrumentation and Design, Quantitative Cell Biology, Quantitative Physiology, Bioreactors, BioFluid Mechanics, Thermodynamics  
@@ -78,7 +73,9 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 ## Work Experience
 
 ### Edwards Lifesciences  
-**Research Engineering Intern (September 2023 - January 2024) - Irvine, CA**  
+**Research Engineering Intern**
+**September 2023 - January 2024**
+**Irvine, CA**
 - Utilized Python, MATLAB, and CRIMSON to create a computational model simulating hemodynamics resulting from cardiovascular devices in preclinical trials.  
 - Delivered presentations on findings to senior engineers, integrating feedback to enhance model accuracy.  
 - Completed the model for four stages: Hypervolemic, Euvolemic, Acute device performance, and Chronic device performance.  
