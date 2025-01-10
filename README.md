@@ -182,6 +182,7 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 **Heart Rate Monitor (October 2021 – December 2021)**  
 - Created a compact heart rate monitor using Arduino Uno and LabVIEW software.  
 - Specialized in hardware design and implementation with signal filtering and peak detection.
+
 ---
 
 ## Extracurricular Activities
