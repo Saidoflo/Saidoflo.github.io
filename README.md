@@ -114,8 +114,8 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 - Developed a novel methodology for testing tissue rings via extensive flow tests, assessing biomechanical properties.  
 - Conducted cell culturing, fluorescence cell imaging, and immunostaining for Human Dermal Fibroblast, 293T, and Smooth Muscle cells.
 
-### Berkeley Pharma 
-#### Tech January 2022 – August 2022
+### Berkeley Pharma Tech
+#### January 2022 – August 2022
 #### Biomedical Research Intern 
 - Performed a comprehensive research review on gene therapy approaches for COPD, exploring inhalable gene therapy, alpha1-antitrypsin (A1AT) deficiency, and miRNA regulation.  
 - Submitted a grant proposal aiming toward a new therapeutic antidepressant for resistant depression.
