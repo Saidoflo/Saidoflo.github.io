@@ -21,19 +21,6 @@ Outside of school, I enjoy **playing soccer** and **scuba diving**. I am from Eg
 
 ---
 
-### SMART Goals
-1. **Goal**: I want to enroll in a PhD program in Bioengineering.  
-   - **Plan**:  
-     - Research at least five potential PhD programs in Bioengineering by the end of this semester.  
-     - Maintain a competitive GPA, gain research experience through internships or projects, and obtain strong letters of recommendation.  
-     - Submit applications by **November 1st** of my senior year.
-
-2. **Alignment**: Obtaining a PhD in Bioengineering aligns with my career aspirations to contribute to advancements in healthcare technology and biotechnology.
-
-3. **Timeline**: Allow ample time for review and revisions before the application deadlines.
-
----
-
 ### Philosophy Statement
 I believe that real success comes from sticking to your core values, always growing, and genuinely wanting to make a positive difference in others’ lives. My approach to leadership is all about patience, persistence, resilience, creativity, and empathy.
 
@@ -80,8 +67,9 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 - Completed the model for four stages: Hypervolemic, Euvolemic, Acute device performance, and Chronic device performance.  
 - Demonstrated strong communication skills by presenting technical information effectively.
 
-### Medtronic  
-#### Quality Engineering Intern (June 2023 - August 2023) - Jacksonville, FL**  
+### Medtronic  - Engineering Intern 
+#### June 2023 - August 2023
+#### Jacksonville, FL**  
 - Ensured the quality of critical raw materials from legacy production lines, aligning with patient safety and regulatory standards.  
 - Spearheaded initiatives to optimize the flow of purchased components by collaborating with Medtronic’s facility in Singapore, resulting in a projected \$2.5 million in savings.  
 - Demonstrated teamwork in interdisciplinary settings, collaborating across multiple sites.
@@ -94,7 +82,8 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 ---
 
 ## Teaching
-### BIOMEDE 241 Instructional Aide - University of Michigan (August 2024 – Present)
+### BIOMEDE 241 Instructional Aide - University of Michigan 
+#### August 2024 – Present
 - Serve as a Teaching Assistant for “Statistics, Computation, and Data Analysis for Biomedical Engineers,” supporting over 130 undergraduate students.  
 - Assist in teaching descriptive statistics, probability distributions, hypothesis testing, regression analysis, ANOVA, and post-hoc tests with computational tools (Python).  
 - Develop engaging learning materials and tutorials on Python for real biomedical engineering datasets.  
@@ -105,8 +94,9 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 
 ## Research Experience
 
-### Computational Vascular Biomechanics Lab (CVBL) - University of Michigan (May 2022 – Present)
-**Research Assistant**  
+### Computational Vascular Biomechanics Lab (CVBL) - University of Michigan 
+#### May 2022 – Present
+#### **Research Assistant**
 - Constructed patient-specific 3D fluid-structure interaction models to quantify pulmonary arterial hypertension (PAH) progression in pediatric patients.  
 - Utilized Python, CRIMSON, and MATLAB to investigate correlations between data-derived and model-derived metrics, revealing variations in arterial stiffness, pulmonary resistance, and compliance.
 
