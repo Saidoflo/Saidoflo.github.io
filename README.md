@@ -69,12 +69,14 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 
 ### Medtronic  - Engineering Intern 
 #### June 2023 - August 2023
-#### Jacksonville, FL**  
+#### Jacksonville, FL  
 - Ensured the quality of critical raw materials from legacy production lines, aligning with patient safety and regulatory standards.  
 - Spearheaded initiatives to optimize the flow of purchased components by collaborating with Medtronic’s facility in Singapore, resulting in a projected \$2.5 million in savings.  
 - Demonstrated teamwork in interdisciplinary settings, collaborating across multiple sites.
 
-### Bioprocessing Research Intern - Keck Graduate Institute (June 2022 – August 2022) - Claremont, CA
+### Keck Graduate Institute - Bioprocessing Research Intern
+#### June 2022 – August 2022
+#### Claremont, CA
 - Developed a detailed report on Bebtelovimab, covering its Mechanism of Action, Target Product Profile, Manufacturing Process, and Regulatory considerations.  
 - Focused on FDA, cGMP practices, Critical Quality Attributes (CQA), and Orphan drug application processes.  
 - Gained expertise in manufacturing biological products, advanced analytical methods, and scaling up cell cultures.
@@ -96,27 +98,31 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 
 ### Computational Vascular Biomechanics Lab (CVBL) - University of Michigan 
 #### May 2022 – Present
-#### **Research Assistant**
+#### Research Assistant
 - Constructed patient-specific 3D fluid-structure interaction models to quantify pulmonary arterial hypertension (PAH) progression in pediatric patients.  
 - Utilized Python, CRIMSON, and MATLAB to investigate correlations between data-derived and model-derived metrics, revealing variations in arterial stiffness, pulmonary resistance, and compliance.
 
-### Laboratory of Biological Fluid Mechanics and Soft Matter - Shanghai Jiao Tong University (May 2024 – December 2024)
-**Research Assistant**  
+### Laboratory of Biological Fluid Mechanics and Soft Matter - Shanghai Jiao Tong University 
+#### May 2024 – December 2024
+#### Research Assistant 
 - Developed quantitative/qualitative analysis to investigate the effects of gravitational force and agar concentration on bacterial swarming behavior using Enterobacter sp. SM3.  
 - Designed experiments using image processing techniques (OpenCV, ImageJ, MATLAB) to capture and analyze bacterial motility and velocity fields.
 
-### Ganesh Lab @ UM Medicine - University of Michigan (October 2022 – January 2024)
-**Research Assistant**  
+### Ganesh Lab @ UM Medicine - University of Michigan 
+#### October 2022 – January 2024
+#### Research Assistant  
 - Developed a novel methodology for testing tissue rings via extensive flow tests, assessing biomechanical properties.  
 - Conducted cell culturing, fluorescence cell imaging, and immunostaining for Human Dermal Fibroblast, 293T, and Smooth Muscle cells.
 
-### Berkeley Pharma Tech (January 2022 – August 2022)
-**Biomedical Research Intern** (Remote)  
+### Berkeley Pharma 
+#### Tech January 2022 – August 2022
+#### Biomedical Research Intern 
 - Performed a comprehensive research review on gene therapy approaches for COPD, exploring inhalable gene therapy, alpha1-antitrypsin (A1AT) deficiency, and miRNA regulation.  
 - Submitted a grant proposal aiming toward a new therapeutic antidepressant for resistant depression.
 
-### Cardiovascular Modeling Laboratory - UC Irvine (October 2021 – June 2022)
-**Research Assistant**  
+### Cardiovascular Modeling Laboratory - UC Irvine 
+#### October 2021 – June 2022
+#### Research Assistant
 - Collaborated with a PhD student for Microcontact Printing, Harvesting, and Immunostaining in a hypoxia experiment.  
 - Presented on the impact of hyperglycemia, hypoglycemia, and hyperlipidemia on cardiac metabolism.  
 - Mentored and trained three undergraduate researchers in lab techniques.
@@ -176,21 +182,6 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
 **Heart Rate Monitor (October 2021 – December 2021)**  
 - Created a compact heart rate monitor using Arduino Uno and LabVIEW software.  
 - Specialized in hardware design and implementation with signal filtering and peak detection.
-
----
-
-## Presentations
-1. **Said, O.** Berkeley Pharma Tech Medical Research Conference. *Gene Therapy for the Reversal of COPD Symptoms*. (Remote)  
-2. **Said, O.** Biomedical Engineering Society. *Computational Analysis of Disease Progression in Pediatric Pulmonary Arterial Hypertension*. Seattle, Washington  
-3. **Said, O.** Cellular and Molecular Bioengineering. *Exploring the Influence of Gravitational Force on Bacterial Swarming*. Carlsbad, CA
-
----
-
-## Publications
-1. J. Calendine, S. Batra, J. Cherfils, **O. Said**, and V. Nguyen, “Gene Therapy Avenues for Chronic Obstructive Pulmonary Disease,” *bptjm*, vol. 2, no. 1, pp. 58–80, Jul. 2022.  
-2. **O. Said**, C. Tossas-Betancourt, M. K. Olive, J. C. Lu, A. Dorfman, S. Baek, C. A. Figueroa, “Computational Analysis of Disease Progression in Pediatric Pulmonary Arterial Hypertension.” *In Progress.*  
-3. **O. Said**, Z. Jihn, Z. Qu, “Exploring the Influence of Gravitational Force on Bacterial Swarming.” *In Progress.*
-
 ---
 
 ## Extracurricular Activities
@@ -205,5 +196,19 @@ In my perfect world, everyone has access to advanced healthcare and quality educ
   - Received the **Outstanding Societal Impact Chapter Award** in BMES 2022 Conference.  
   - Led an outreach program helping high school students learn more about Biomedical Engineering and college life.  
   - Volunteered and led discussion sessions during BMES 2022 Conference in San Antonio, Texas.
+
+---
+
+## Presentations
+1. **Said, O.** Berkeley Pharma Tech Medical Research Conference. *Gene Therapy for the Reversal of COPD Symptoms*. (Remote)  
+2. **Said, O.** Biomedical Engineering Society. *Computational Analysis of Disease Progression in Pediatric Pulmonary Arterial Hypertension*. Seattle, Washington  
+3. **Said, O.** Cellular and Molecular Bioengineering. *Exploring the Influence of Gravitational Force on Bacterial Swarming*. Carlsbad, CA
+
+---
+
+## Publications
+1. J. Calendine, S. Batra, J. Cherfils, **O. Said**, and V. Nguyen, “Gene Therapy Avenues for Chronic Obstructive Pulmonary Disease,” *bptjm*, vol. 2, no. 1, pp. 58–80, Jul. 2022.  
+2. **O. Said**, C. Tossas-Betancourt, M. K. Olive, J. C. Lu, A. Dorfman, S. Baek, C. A. Figueroa, “Computational Analysis of Disease Progression in Pediatric Pulmonary Arterial Hypertension.” **In Progress.**  
+3. **O. Said**, Z. Jihn, Z. Qu, “Exploring the Influence of Gravitational Force on Bacterial Swarming.” **In Progress.**
 
 ---
